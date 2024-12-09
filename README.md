@@ -1,7 +1,7 @@
 **UNIVERSIDADE SÃO JUDAS TADEU  
 ENGENHARIA DE SOFTWARE**
 
-**Integrantes:**
+**Integrantes:**  
 Amanda Maria Leandro de Andrade - 823157409  
 Guilherme Luiz de Moraes - 823144088  
 Marcos Aurélio dos Santos Bernades - 823159450  
