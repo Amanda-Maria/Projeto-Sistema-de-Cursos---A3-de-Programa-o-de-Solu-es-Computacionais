@@ -15,7 +15,7 @@ Linguagem de Programação: Java
 IDE: NetBeans  
 Interface Gráfica: JFram
 
-**Funcionalidades**  
-Cadastro de estudantes, professores e disciplinas.  
-Edição e exclusão de registros.  
-Visualização de listas de dados.
+**Funcionalidades:**  
+- Cadastro de estudantes, professores e disciplinas.  
+- Edição e exclusão de registros.  
+- Visualização de listas de dados.
