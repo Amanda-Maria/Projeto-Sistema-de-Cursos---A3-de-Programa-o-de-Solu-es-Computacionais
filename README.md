@@ -7,8 +7,7 @@ Guilherme Luiz de Moraes - 823144088
 Marcos Aurélio dos Santos Bernades - 823159450  
 Satoru Kaneko - 823162357
 
-
-Este é um projeto desenvolvido como parte da nota A3 da faculdade. Ele consiste em um sistema simples de cursos de programação.  
+Este projeto foi desenvolvido como parte da avaliação A3 da disciplina Programação de Soluções Computacionais, ministrada pelos professores Erica Lopes e Carlos Noriega. O sistema implementado é uma aplicação voltada para o gerenciamento de cursos de programação voltado para escolas ou instituições de treinamento.  
 
 **Tecnologias Utilizadas:**  
 Linguagem de Programação: Java  
